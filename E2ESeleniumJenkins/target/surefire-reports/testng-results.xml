@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="13567" started-at="2018-08-21T19:11:34Z" finished-at="2018-08-21T19:11:47Z">
+  <suite name="Suite" duration-ms="25089" started-at="2018-08-23T18:55:22Z" finished-at="2018-08-23T18:55:47Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="13567" started-at="2018-08-21T19:11:34Z" finished-at="2018-08-21T19:11:47Z">
+    <test name="Test" duration-ms="25089" started-at="2018-08-23T18:55:22Z" finished-at="2018-08-23T18:55:47Z">
       <class name="testcases.TC_002">
-        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_002@3b81a1bc]" name="testcase1" duration-ms="4262" started-at="2018-08-21T19:11:39Z" finished-at="2018-08-21T19:11:44Z">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_002@5f2050f6]" name="testcase1" duration-ms="4963" started-at="2018-08-23T18:55:29Z" finished-at="2018-08-23T18:55:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
       </class> <!-- testcases.TC_002 -->
       <class name="testcases.TC_001">
-        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_001@5f2050f6]" name="testcase1" duration-ms="5453" started-at="2018-08-21T19:11:34Z" finished-at="2018-08-21T19:11:39Z">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_001@26ba2a48]" name="testcase1" duration-ms="7600" started-at="2018-08-23T18:55:22Z" finished-at="2018-08-23T18:55:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
       </class> <!-- testcases.TC_001 -->
       <class name="testcases.TC_003">
-        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_003@64616ca2]" name="testcase1" duration-ms="3823" started-at="2018-08-21T19:11:44Z" finished-at="2018-08-21T19:11:47Z">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_003@3b81a1bc]" name="testcase1" duration-ms="12498" started-at="2018-08-23T18:55:34Z" finished-at="2018-08-23T18:55:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
